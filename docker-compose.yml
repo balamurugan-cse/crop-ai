@@ -1,0 +1,76 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: cropcare_mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: cropcare
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - cropcare-net
+
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    container_name: cropcare_ai_service
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - MODEL_CHECKPOINT_PATH=app/models/cropcare_model.pt
+      - MODEL_METADATA_PATH=app/models/model_meta.json
+    volumes:
+      - ./ai-service/app/models:/app/models
+    networks:
+      - cropcare-net
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cropcare_backend
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+      - MONGODB_URI=mongodb://mongodb:27017/cropcare
+      - JWT_SECRET=cropcare_jwt_production_secret_key_change_me
+      - AI_SERVICE_URL=http://ai-service:8000
+      - UPLOAD_DIR=/app/uploads
+    depends_on:
+      - mongodb
+      - ai-service
+    volumes:
+      - backend_uploads:/app/uploads
+    networks:
+      - cropcare-net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: cropcare_frontend
+    restart: unless-stopped
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    networks:
+      - cropcare-net
+
+volumes:
+  mongo_data:
+  backend_uploads:
+
+networks:
+  cropcare-net:
+    driver: bridge

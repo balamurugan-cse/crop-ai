@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+
+# Environment
+.env
+
+# Uploads & data
+uploads/
+ai-service/data/raw/
+ai-service/data/tfrecords/
+storage/
+
+# Model checkpoints (large files)
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.pytest_cache/
+
+# Coverage
+coverage/
+htmlcov/

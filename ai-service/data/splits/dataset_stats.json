@@ -1,0 +1,77 @@
+{
+  "classes": {
+    "tomato_early_blight": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "tomato_late_blight": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "tomato_healthy": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "potato_early_blight": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "potato_late_blight": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "potato_healthy": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "corn_common_rust": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "corn_northern_leaf_blight": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "corn_healthy": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "bell_pepper_bacterial_spot": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    },
+    "bell_pepper_healthy": {
+      "train": 10,
+      "val": 2,
+      "test_pv": 3,
+      "test_plantdoc": 15
+    }
+  },
+  "total_images": 330,
+  "splits_count": {
+    "train": 110,
+    "val": 22,
+    "test_internal_plantvillage": 33,
+    "test_external_plantdoc": 165
+  }
+}

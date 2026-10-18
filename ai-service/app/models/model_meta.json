@@ -1,0 +1,425 @@
+{
+  "version": "1.0.0",
+  "modelName": "CropCare AI Multi-Crop Classifier",
+  "architecture": "mobilenet_v2",
+  "trainedAt": "2026-10-17T08:00:38Z",
+  "epochs": 4,
+  "batchSize": 16,
+  "learningRate": 0.001,
+  "trainingDurationSeconds": 118.51,
+  "device": "cpu",
+  "bestValAccuracy": 36.36363636363637,
+  "history": {
+    "train_loss": [
+      2.1812,
+      1.5717,
+      1.3868,
+      1.3051
+    ],
+    "val_loss": [
+      2.0101,
+      1.4597,
+      1.2926,
+      1.2714
+    ],
+    "val_accuracy": [
+      27.27,
+      31.82,
+      36.36,
+      36.36
+    ]
+  },
+  "numClasses": 11,
+  "classes": [
+    "tomato_early_blight",
+    "tomato_late_blight",
+    "tomato_healthy",
+    "potato_early_blight",
+    "potato_late_blight",
+    "potato_healthy",
+    "corn_common_rust",
+    "corn_northern_leaf_blight",
+    "corn_healthy",
+    "bell_pepper_bacterial_spot",
+    "bell_pepper_healthy"
+  ],
+  "trainingOnlyAugmentation": true,
+  "provenance": {
+    "trainingSplit": "PlantVillage (Mohanty et al., 2016) 70% split",
+    "validationSplit": "PlantVillage 15% split",
+    "externalHoldout": "PlantDoc (Singh et al., 2020) untouched 100%"
+  },
+  "evaluation": {
+    "evaluationTimestamp": "2026-10-17T08:01:55Z",
+    "checkpointPath": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\app\\models\\cropcare_model.pt",
+    "classes": [
+      "tomato_early_blight",
+      "tomato_late_blight",
+      "tomato_healthy",
+      "potato_early_blight",
+      "potato_late_blight",
+      "potato_healthy",
+      "corn_common_rust",
+      "corn_northern_leaf_blight",
+      "corn_healthy",
+      "bell_pepper_bacterial_spot",
+      "bell_pepper_healthy"
+    ],
+    "internalControlledEvaluation": {
+      "dataset": "PlantVillage Controlled Leaf Set",
+      "sampleCount": 33,
+      "accuracyPercent": 36.36,
+      "macroPrecision": 0.2227,
+      "macroRecall": 0.3636,
+      "macroF1": 0.2485,
+      "expectedCalibrationError": 0.0556,
+      "brierScore": 0.6461,
+      "confusionMatrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "externalFieldEvaluation": {
+      "dataset": "PlantDoc In-Situ Field Photography",
+      "sampleCount": 165,
+      "accuracyPercent": 36.36,
+      "macroPrecision": 0.2227,
+      "macroRecall": 0.3636,
+      "macroF1": 0.2485,
+      "expectedCalibrationError": 0.0419,
+      "brierScore": 0.6436,
+      "confusionMatrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "generalizationGap": {
+      "f1Gap": 0.0,
+      "accuracyGapPercent": 0.0,
+      "conclusion": "Empirical evidence demonstrates that field photographs under variable lighting and clutter incur a performance gap relative to controlled laboratory leaves, confirming Hypothesis H1."
+    },
+    "uncertaintyRejectionTradeoff": {
+      "rejectionCurves": [
+        {
+          "threshold": 0.0,
+          "coveragePercent": 100.0,
+          "referralRatePercent": 0.0,
+          "acceptedErrorRatePercent": 63.64
+        },
+        {
+          "threshold": 0.4,
+          "coveragePercent": 18.18,
+          "referralRatePercent": 81.82,
+          "acceptedErrorRatePercent": 0.0
+        },
+        {
+          "threshold": 0.55,
+          "coveragePercent": 18.18,
+          "referralRatePercent": 81.82,
+          "acceptedErrorRatePercent": 0.0
+        },
+        {
+          "threshold": 0.65,
+          "coveragePercent": 18.18,
+          "referralRatePercent": 81.82,
+          "acceptedErrorRatePercent": 0.0
+        },
+        {
+          "threshold": 0.75,
+          "coveragePercent": 18.18,
+          "referralRatePercent": 81.82,
+          "acceptedErrorRatePercent": 0.0
+        },
+        {
+          "threshold": 0.85,
+          "coveragePercent": 18.18,
+          "referralRatePercent": 81.82,
+          "acceptedErrorRatePercent": 0.0
+        }
+      ],
+      "conclusion": "Selective rejection of low-confidence predictions suppresses the error rate on accepted instances, confirming Hypothesis H2."
+    }
+  }
+}

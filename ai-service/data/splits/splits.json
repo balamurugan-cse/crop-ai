@@ -1,0 +1,1660 @@
+{
+  "train": [
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_009.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_011.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_000.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_013.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_005.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_008.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_002.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_001.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_014.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_004.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_010.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_012.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_000.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_008.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_009.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_006.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_011.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_003.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_013.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_001.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_001.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_012.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_004.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_010.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_013.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_007.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_006.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_003.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_002.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_000.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_002.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_007.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_013.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_000.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_011.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_010.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_005.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_009.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_012.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_003.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_010.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_008.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_004.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_009.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_014.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_013.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_000.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_005.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_002.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_007.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_004.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_002.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_007.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_000.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_006.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_011.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_010.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_008.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_012.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_001.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_013.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_002.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_005.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_000.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_011.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_006.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_010.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_003.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_008.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_009.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_001.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_009.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_004.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_010.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_005.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_002.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_011.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_003.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_013.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_007.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_002.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_012.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_005.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_001.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_007.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_014.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_013.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_003.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_008.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_011.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_003.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_001.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_011.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_008.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_013.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_000.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_009.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_010.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_005.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_012.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_012.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_014.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_013.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_003.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_005.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_001.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_007.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_011.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_008.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_010.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    }
+  ],
+  "val": [
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_007.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_010.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_004.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_005.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_008.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_014.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_001.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_014.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_006.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_012.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_013.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_003.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_007.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_014.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_014.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_006.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_006.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_009.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_002.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_004.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_006.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_009.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    }
+  ],
+  "test_internal_plantvillage": [
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_012.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_003.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_early_blight\\sample_pv_006.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_002.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_014.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_late_blight\\sample_pv_007.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_005.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_009.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\tomato_healthy\\sample_pv_011.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_008.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_004.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_early_blight\\sample_pv_006.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_011.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_003.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_late_blight\\sample_pv_001.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_009.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_014.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\potato_healthy\\sample_pv_005.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_001.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_012.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_common_rust\\sample_pv_004.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_008.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_000.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_northern_leaf_blight\\sample_pv_012.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_004.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_010.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\corn_healthy\\sample_pv_000.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_007.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_014.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_bacterial_spot\\sample_pv_006.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_004.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_000.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantvillage\\bell_pepper_healthy\\sample_pv_002.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantvillage"
+    }
+  ],
+  "test_external_plantdoc": [
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_000.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_001.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_002.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_003.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_004.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_005.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_006.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_007.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_008.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_009.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_010.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_011.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_012.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_013.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_early_blight\\sample_pd_014.jpg",
+      "class": "tomato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_000.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_001.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_002.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_003.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_004.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_005.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_006.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_007.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_008.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_009.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_010.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_011.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_012.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_013.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_late_blight\\sample_pd_014.jpg",
+      "class": "tomato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_000.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_001.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_002.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_003.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_004.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_005.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_006.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_007.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_008.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_009.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_010.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_011.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_012.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_013.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\tomato_healthy\\sample_pd_014.jpg",
+      "class": "tomato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_000.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_001.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_002.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_003.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_004.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_005.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_006.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_007.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_008.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_009.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_010.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_011.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_012.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_013.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_early_blight\\sample_pd_014.jpg",
+      "class": "potato_early_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_000.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_001.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_002.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_003.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_004.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_005.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_006.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_007.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_008.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_009.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_010.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_011.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_012.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_013.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_late_blight\\sample_pd_014.jpg",
+      "class": "potato_late_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_000.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_001.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_002.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_003.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_004.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_005.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_006.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_007.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_008.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_009.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_010.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_011.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_012.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_013.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\potato_healthy\\sample_pd_014.jpg",
+      "class": "potato_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_000.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_001.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_002.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_003.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_004.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_005.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_006.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_007.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_008.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_009.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_010.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_011.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_012.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_013.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_common_rust\\sample_pd_014.jpg",
+      "class": "corn_common_rust",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_000.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_001.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_002.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_003.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_004.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_005.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_006.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_007.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_008.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_009.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_010.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_011.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_012.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_013.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_northern_leaf_blight\\sample_pd_014.jpg",
+      "class": "corn_northern_leaf_blight",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_000.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_001.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_002.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_003.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_004.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_005.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_006.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_007.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_008.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_009.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_010.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_011.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_012.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_013.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\corn_healthy\\sample_pd_014.jpg",
+      "class": "corn_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_000.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_001.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_002.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_003.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_004.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_005.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_006.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_007.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_008.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_009.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_010.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_011.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_012.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_013.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_bacterial_spot\\sample_pd_014.jpg",
+      "class": "bell_pepper_bacterial_spot",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_000.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_001.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_002.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_003.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_004.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_005.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_006.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_007.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_008.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_009.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_010.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_011.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_012.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_013.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    },
+    {
+      "path": "C:\\Users\\admin\\.gemini\\antigravity-ide\\scratch\\cropcare-ai\\ai-service\\data\\plantdoc\\bell_pepper_healthy\\sample_pd_014.jpg",
+      "class": "bell_pepper_healthy",
+      "dataset": "plantdoc"
+    }
+  ]
+}
